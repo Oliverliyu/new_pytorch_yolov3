@@ -1,0 +1,4 @@
+classes=3
+train=C:/Users/98053/Desktop/object_detection/papers/YOLOv3/PyTorch_YOLOv3/data/mytrain/train.txt
+valid=C:/Users/98053/Desktop/object_detection/papers/YOLOv3/PyTorch_YOLOv3/data/mytrain/valid.txt
+names=C:/Users/98053/Desktop/object_detection/papers/YOLOv3/PyTorch_YOLOv3/data/mytrain/sign.names
